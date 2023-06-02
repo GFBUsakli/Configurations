@@ -1,8 +1,8 @@
 "Setting,Value;"
-BootMode,Quick
-SecureBoot,Enable
-WirelessAutoDisconnection,Enable
-BIOSUpdateByEndUsers,Enable
-AlwaysOnUSB,Disable
-WakeOnLAN,Disable
-FingerprintPredesktopAuthentication,Disable
+BootMode,Quick;
+SecureBoot,Enable;
+WirelessAutoDisconnection,Enable;
+BIOSUpdateByEndUsers,Enable;
+AlwaysOnUSB,Disable;
+WakeOnLAN,Disable;
+FingerprintPredesktopAuthentication,Disable;
