@@ -1,4 +1,4 @@
-Setting,Value
+Setting,Value;
 BootMode,Quick;
 SecureBoot,Enable;
 WirelessAutoDisconnection,Enable;
